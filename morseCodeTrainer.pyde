@@ -1,3 +1,4 @@
+#This is a program I'm writing to learn python with, and git apparently.
 add_library('minim')
 import string
 import time
